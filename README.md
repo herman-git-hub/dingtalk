@@ -1,6 +1,6 @@
 # dingtalk[![Build Status](https://travis-ci.org/nashaofu/dingtalk.svg?branch=master)](https://travis-ci.org/nashaofu/dingtalk)[![Build status](https://ci.appveyor.com/api/projects/status/jptk80n78gdogd18/branch/master?svg=true)](https://ci.appveyor.com/project/nashaofu/dingtalk/branch/master)
 
-钉钉桌面版，基于 electron 和钉钉网页版开发，支持 Windows1、Linux1 和 macOS1
+钉钉桌面版，基于 electron 和钉钉网页版开发，支持 Windows、Linux 和 macOS
 
 ## 安装步骤
 
@@ -94,8 +94,3 @@ npm run pack
 ## 关于 Linux 程序占用资源过高的问题
 
 程序托盘闪烁功能可能会导致占用资源过高，所以新版本可关闭新消息托盘闪烁功能
-
-## 打赏
-
-如果你觉得作者的辛苦付出有帮助到你，你可以给作者买杯咖啡！🤣
-![打赏](./screenshot/reward.png)
